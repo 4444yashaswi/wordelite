@@ -1,0 +1,8 @@
+.keyboard-wrapper{
+    width: 484px;
+    height: 190px;
+}
+
+.keyboard--mid-row{
+    padding: 0px 10px 0px 10px;
+}
